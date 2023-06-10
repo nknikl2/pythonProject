@@ -5,7 +5,7 @@ from fastapi import File, FastAPI
 import torch
 
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
-img = 'https://im.wampi.ru/2023/06/05/123.png'
+img = 'https://ic.wampi.ru/2023/06/05/photo_2023-06-05_21-12-59.jpg'
 results = model(img)
 print(results.pandas().xyxy[0].to_json(orient="records"))
 
