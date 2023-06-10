@@ -2,10 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/API" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/API_DianaM" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/API_DianaMaratovna" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DianaMaratovna_API" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/NiyazNIKITA" vcs="Git" />
   </component>
 </project>
